@@ -641,6 +641,10 @@ nav ul li a {
   margin-bottom: 4rem;
 }
 
+.card-wisata .card .card-body{
+  height:40vh;
+}
+
 .card-wisata .card-content .card img {
   /* width: 335px; */
   height: 40vh;
@@ -653,10 +657,6 @@ nav ul li a {
   background-color: rgb(255, 255, 255);
   border-radius: 20px;
 } */
-
-.card-wisata .card {
-  /* height:70vh; */
-}
 
 .card-wisata .card .card-body .card-title {
   font-size: 21px;
@@ -910,8 +910,18 @@ nav ul li a {
 
 .card-blog .card {
   width: 350px !important;
+  /* height: 108vh; */
 }
 
+.card-blog .card-content .card img {
+  /* width: 335px; */
+  height: 40vh;
+  object-fit: cover;
+}
+
+.card-blog .card .card-body{
+  height:55vh;
+}
 .card-blog .card .card-body .card-title {
   font-size: 21px;
   font-weight: bold;
