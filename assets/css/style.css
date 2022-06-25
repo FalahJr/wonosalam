@@ -3,7 +3,7 @@ body {
   padding: 0;
   background-color: #fff;
   overflow-x: hidden;
-  font-family: "Samsung Sans Regular" !important;
+  font-family: "Poppins Regular" !important;
 }
 
 /* template travelinary */
@@ -58,41 +58,41 @@ label,
 button,
 input,
 textarea {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Poppins Regular' !important;
   color: var(--first-text);
 }
 
 input::placeholder {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Poppins Regular Regular';
 }
 
 .loraMedium {
-  font-family: 'Lora', serif !important;
+  font-family: 'Poppins Regular'  !important;
   font-weight: 500;
 }
 
 .loraSemiBold {
-  font-family: 'Lora', serif !important;
+  font-family: 'Poppins Regular' !important;
   font-weight: 600;
 }
 
 .loraBold {
-  font-family: 'Lora', serif !important;
+  font-family: 'Poppins Regular' !important;
   font-weight: 700;
 }
 
 .nunitoRegular {
-  font-family: 'Nunito', sans-serif !important;
+  font-family: 'Poppins Regular' !important;
   font-weight: 400;
 }
 
 .nunitoSemiBold {
-  font-family: 'Nunito', sans-serif !important;
+  font-family: 'Poppins Regular' !important;
   font-weight: 600;
 }
 
 .nunitoBold {
-  font-family: 'Nunito', sans-serif !important;
+  font-family: 'Poppins Regular' !important;
   font-weight: 700;
 }
 
